@@ -1,0 +1,27 @@
+{
+  "name": "sine-audio-player",
+  "version": "1.0.0",
+  "description": "Music & Audio Player JavaScript Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tharunbirla/sine-audio-player"
+  },
+  "keywords": [
+    "web-audio",
+    "web-audio-library",
+    "audio-library",
+    "javascript",
+    "music-player",
+    "ui-audio"
+  ],
+  "author": "Tharun",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tharunbirla/sine-audio-player/issues"
+  },
+  "homepage": "https://github.com/tharunbirla/sine-audio-player#readme"
+}
